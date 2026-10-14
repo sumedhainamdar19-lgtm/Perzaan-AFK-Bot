@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "KING-2usy.aternos.me:55716",
+    "port": 55716,
     "version": "1.21.1"
   },
   "position": {
